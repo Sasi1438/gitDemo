@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\java_basics\java_basics\bin\Debug\net6.0\java_basics.exe
+C:\Users\Dell\source\repos\java_basics\java_basics\bin\Debug\net6.0\java_basics.deps.json
+C:\Users\Dell\source\repos\java_basics\java_basics\bin\Debug\net6.0\java_basics.runtimeconfig.json
+C:\Users\Dell\source\repos\java_basics\java_basics\bin\Debug\net6.0\java_basics.dll
+C:\Users\Dell\source\repos\java_basics\java_basics\bin\Debug\net6.0\java_basics.pdb
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.AssemblyInfo.cs
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.dll
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\refint\java_basics.dll
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.pdb
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\java_basics.genruntimeconfig.cache
+C:\Users\Dell\source\repos\java_basics\java_basics\obj\Debug\net6.0\ref\java_basics.dll
